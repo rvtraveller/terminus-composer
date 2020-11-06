@@ -14,7 +14,7 @@ filesystem.
 
 
 ## Installation
-For help installing, see [Terminus's Wiki](https://github.com/pantheon-systems/terminus/wiki/Plugins)
+For help installing, see the [Terminus manual](https://pantheon.io/docs/terminus/plugins).
 
 ## Help
 Run `terminus help composer` for help.
